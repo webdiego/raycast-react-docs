@@ -8,7 +8,7 @@ export default function Command() {
         <List.Item
           key={id}
           title={title}
-          icon={"react-black.png"}
+          icon={"icon.png"}
           accessories={[{ text: `${type}`, icon: type === "hooks" ? Icon.Anchor : Icon.Book }]}
           actions={
             <ActionPanel title={title}>

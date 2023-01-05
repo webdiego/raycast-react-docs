@@ -3,7 +3,7 @@
   "name": "react-docs",
   "title": "Documentation",
   "description": "Quick links to the new React documentation",
-  "icon": "react-black.png",
+  "icon": "icon.png",
   "author": "webdiego",
   "categories": [
     "Developer Tools"

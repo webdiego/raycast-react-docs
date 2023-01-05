@@ -4,7 +4,7 @@
   "title": "Documentation",
   "description": "Quick links to the new React documentation",
   "icon": "react-black.png",
-  "author": "Diego_Massarini",
+  "author": "webdiego",
   "categories": [
     "Developer Tools"
   ],
@@ -12,7 +12,7 @@
   "commands": [
     {
       "name": "index",
-      "title": "React docs",
+      "title": "React Docs",
       "description": "Quick links to the new React documentation",
       "mode": "view"
     }
